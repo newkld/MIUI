@@ -13,7 +13,7 @@
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 api.sec.miui.com
-127.0.0.1 srv.sec.miui.com�
+127.0.0.1 srv.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 
 # 127.0.0.1 api.io.mi.com
@@ -44,7 +44,7 @@
 
 127.0.0.1 tmfsdk.m.qq.com
 127.0.0.1 tpstelemetry.tencent.com
-
+127.0.0.1 tmfsdktcpv4.m.qq.com
 # umeng
 127.0.0.1 errlog.umeng.com
 127.0.0.1 ulogs.umeng.com

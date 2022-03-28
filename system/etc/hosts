@@ -42,6 +42,8 @@
 
 127.0.0.1 etl-xlmc-ssl.sandai.net
 
+127.0.0.1 cn.app.chat.xiaomi.net
+
 127.0.0.1 tmfsdk.m.qq.com
 127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 tmfsdktcpv4.m.qq.com

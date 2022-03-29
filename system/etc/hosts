@@ -33,6 +33,7 @@
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 api-ipv4.browser.miui.com
 
+127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 flash.sec.miui.com
@@ -48,6 +49,7 @@
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 a.hl.mi.com
+127.0.0.1 api.jr.mi.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
 
 127.0.0.1 tmfsdk.m.qq.com

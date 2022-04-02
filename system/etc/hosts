@@ -44,6 +44,7 @@
 # 127.0.0.1 keybag.id.mi.com
 # 禁用后将无法云扫描病毒
 # 127.0.0.1 miui-fxcse.avlyun.com
+127.0.0.1 dw-online.ksosoft.com
 
 127.0.0.1 etl-xlmc-ssl.sandai.net
 

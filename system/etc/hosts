@@ -12,7 +12,7 @@
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 tracking.miui.com
-127.0.0.1 api.sec.miui.com
+#127.0.0.1 api.sec.miui.com
 127.0.0.1 srv.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 

@@ -12,6 +12,7 @@
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 tracking.miui.com
+127.0.0.1 cn.register.xmpush.xiaomi.com
 #127.0.0.1 api.sec.miui.com
 #127.0.0.1 srv.sec.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -51,10 +52,14 @@
 
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 pdc.micloud.xiaomi.net
-127.0.0.1 api.device.xiaomi.net
+#127.0.0.1 api.device.xiaomi.net
 127.0.0.1 a.hl.mi.com
 127.0.0.1 api.jr.mi.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
+
+#??? 云控?
+127.0.0.1 qsb.browser.miui.srv
+127.0.0.1 rom.pt.miui.srv
 
 127.0.0.1 tmfsdk.m.qq.com
 127.0.0.1 tbm.snssdk.com

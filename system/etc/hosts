@@ -16,6 +16,8 @@
 #127.0.0.1 api.sec.miui.com
 #127.0.0.1 srv.sec.miui.com
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 flash.sec.miui.com
+127.0.0.1 api.tw06.xlmc.sec.miui.com
 
 # 127.0.0.1 api.io.mi.com
 
@@ -35,18 +37,15 @@
 127.0.0.1 r.browser.miui.com
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 api-ipv4.browser.miui.com
+127.0.0.1 wtradv.market.xiaomi.com
 
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
-127.0.0.1 wtradv.market.xiaomi.com
-127.0.0.1 flash.sec.miui.com
-127.0.0.1 api.tw06.xlmc.sec.miui.com
 
 # 禁用后无法加载手机管家App内的图标
 # 127.0.0.1 keybag.id.mi.com
 # 禁用后将无法云扫描病毒
 # 127.0.0.1 miui-fxcse.avlyun.com
-127.0.0.1 dw-online.ksosoft.com
 
 127.0.0.1 etl-xlmc-ssl.sandai.net
 
@@ -61,10 +60,13 @@
 127.0.0.1 qsb.browser.miui.srv
 127.0.0.1 rom.pt.miui.srv
 
+#垃圾sdk
 127.0.0.1 tmfsdk.m.qq.com
 127.0.0.1 tbm.snssdk.com
 127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 tmfsdktcpv4.m.qq.com
+127.0.0.1 dw-online.ksosoft.com
+
 # umeng
 127.0.0.1 errlog.umeng.com
 127.0.0.1 ulogs.umeng.com
@@ -72,6 +74,7 @@
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 msg.umengcloud.com
 127.0.0.1 umengcloud.com
+
 #MS AppCenter
 127.0.0.1 in.appcenter.ms
 

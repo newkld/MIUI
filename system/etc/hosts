@@ -10,21 +10,23 @@
 127.0.0.1 data.sec.miui.com
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
-127.0.0.1 ad.xiaomi.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 cn.register.xmpush.xiaomi.com
+
+127.0.0.1 open.mp.huangye.miui.com
+
 #127.0.0.1 api.sec.miui.com
 #127.0.0.1 srv.sec.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 flash.sec.miui.com
+
+127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 
 # 127.0.0.1 api.io.mi.com
-
-127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 ad.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 diagnosis.ad.xiaomi.com
-127.0.0.1 ad.xiaomi.com
 127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 m.track.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com

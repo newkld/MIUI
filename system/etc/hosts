@@ -14,10 +14,9 @@
 # 小爱同学
 127.0.0.1 tracker.ai.xiaomi.com
 127.0.0.1 api.miui.security.xiaomi.com
-
 127.0.0.1 open.mp.huangye.miui.com
 
-#127.0.0.1 api.sec.miui.com
+127.0.0.1 api.sec.miui.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 #127.0.0.1 srv.sec.miui.com
 127.0.0.1 adv.sec.miui.com
@@ -28,7 +27,7 @@
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 
-
+127.0.0.1 data.sec.miui.com
 
 # 127.0.0.1 api.io.mi.com
 127.0.0.1 ad.xiaomi.com

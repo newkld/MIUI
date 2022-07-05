@@ -23,6 +23,7 @@
 127.0.0.1 api.sec.miui.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 #127.0.0.1 srv.sec.miui.com
+127.0.0.1 tz.sec.xiaomi.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 auth.be.sec.miui.com
 127.0.0.1 data.sec.miui.com
@@ -77,6 +78,7 @@
 127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 tmfsdktcpv4.m.qq.com
 127.0.0.1 dw-online.ksosoft.com
+127.0.0.1 api.yky.qq.com
 127.0.0.1 android.bugly.qq.com
 # umeng
 127.0.0.1 errlog.umeng.com

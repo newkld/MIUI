@@ -33,8 +33,7 @@
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 
-127.0.0.1 data.sec.miui.com
-
+127.0.0.1 sd-gamespace.sec.miui.com 
 # 127.0.0.1 api.io.mi.com
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
@@ -48,9 +47,11 @@
 127.0.0.1 cdn.exp.xiaomi.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
-
+127.0.0.1 pre-api.miui.security.xiaomi.com
 127.0.0.1 port.sec.miui.com
 127.0.0.1 report.sp.miui.com
+127.0.0.1 api.hybrid.xiaomi.com
+
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 api.browser.miui.com
 127.0.0.1 security.browser.miui.com

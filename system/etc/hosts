@@ -18,7 +18,10 @@
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 open.mp.huangye.miui.com
 
-#127.0.0.1 api.sec.miui.com
+127.0.0.1 mmgr.gtimg.com
+127.0.0.1 log.avlyun.sec.intl.miui.com
+127.0.0.1 mazu.sec.miui.com
+127.0.0.1 api.sec.miui.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 #127.0.0.1 srv.sec.miui.com
 127.0.0.1 tz.sec.xiaomi.com

@@ -3,11 +3,9 @@
 
 127.0.0.1 api.installer.xiaomi.com
 
-127.0.0.1 up.cm.ksmobile.com
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 jupiter.sys.miui.com
 127.0.0.1 metok.sys.miui.com
-127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 proxy.sec.miui.com
 
 127.0.0.1 resolver.msg.xiaomi.net
@@ -20,7 +18,7 @@
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 open.mp.huangye.miui.com
 
-127.0.0.1 api.sec.miui.com
+#127.0.0.1 api.sec.miui.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 #127.0.0.1 srv.sec.miui.com
 127.0.0.1 tz.sec.xiaomi.com
@@ -42,8 +40,14 @@
 127.0.0.1 m.track.ad.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 app.market.xiaomi.com
+127.0.0.1 staging.appapi.n.xiaomi.com
+127.0.0.1 apm-rum.inf.miui.com
+127.0.0.1 cdn.exp.xiaomi.com
+127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
 
+127.0.0.1 port.sec.miui.com
+127.0.0.1 report.sp.miui.com
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 api.browser.miui.com
 127.0.0.1 security.browser.miui.com
@@ -53,12 +57,15 @@
 127.0.0.1 c3-cache.browser.miui.com
 127.0.0.1 api-ipv4.browser.miui.com
 127.0.0.1 wtradv.market.xiaomi.com
+127.0.0.1 privacy.api.intl.miui.com
 127.0.0.1 api.developer.xiaomi.com
 # 禁用后无法加载手机管家App内的图标
-# 127.0.0.1 keybag.id.mi.com
+#127.0.0.1 keybag.id.mi.com
 # 禁用后将无法云扫描病毒
-# 127.0.0.1 miui-fxcse.avlyun.com
-
+127.0.0.1 miui-fxcse.avlyun.com
+127.0.0.1 sdkconf.avlyun.com
+127.0.0.1 sdkconf.avlyun.com
+127.0.0.1 miav-cse.avlyun.com
 127.0.0.1 etl-xlmc-ssl.sandai.net
 
 127.0.0.1 cn.app.chat.xiaomi.net
@@ -74,12 +81,20 @@
 
 #垃圾sdk
 127.0.0.1 tmfsdk.m.qq.com
+127.0.0.1 tmfsdk4.m.qq.com
 127.0.0.1 tbm.snssdk.com
 127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 tmfsdktcpv4.m.qq.com
-127.0.0.1 dw-online.ksosoft.com
 127.0.0.1 api.yky.qq.com
 127.0.0.1 android.bugly.qq.com
+127.0.0.1 up.cm.ksmobile.com
+127.0.0.1 dw-online.ksosoft.com
+127.0.0.1 zzhc.vnet.cn
+127.0.0.1 beacon-api.aliyuncs.com
+127.0.0.1 mpush-api.aliyun.com
+127.0.0.1 ug.snssdk.com
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 www.pangolin-dsp-toutiao.com
 # umeng
 127.0.0.1 errlog.umeng.com
 127.0.0.1 ulogs.umeng.com

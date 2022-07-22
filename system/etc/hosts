@@ -55,7 +55,7 @@
 127.0.0.1 port.sec.miui.com
 127.0.0.1 report.sp.miui.com
 127.0.0.1 api.hybrid.xiaomi.com
-
+127.0.0.1 fm.duokanbox.com
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 api.browser.miui.com
 127.0.0.1 security.browser.miui.com
@@ -91,6 +91,8 @@
 127.0.0.1 tmfsdk.m.qq.com
 127.0.0.1 tmfsdk4.m.qq.com
 127.0.0.1 tbm.snssdk.com
+127.0.0.1 othstr.beacon.qq.com
+127.0.0.1 h.trace.qq.com
 127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 tmfsdktcpv4.m.qq.com
 127.0.0.1 tmeadcomm.y.qq.com

@@ -31,6 +31,7 @@
 127.0.0.1 flash.sec.miui.com
 127.0.0.1 game.sec.miui.com
 127.0.0.1 update.avlyun.sec.miui.com
+127.0.0.1 ixav-cse.avlyun.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 
 127.0.0.1 sd-gamespace.sec.miui.com 
@@ -98,6 +99,7 @@
 127.0.0.1 mpush-api.aliyun.com
 127.0.0.1 ug.snssdk.com
 127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 worldwide.sogou.com
 127.0.0.1 www.pangolin-dsp-toutiao.com
 # umeng
 127.0.0.1 errlog.umeng.com

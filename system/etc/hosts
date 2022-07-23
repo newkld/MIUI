@@ -140,3 +140,34 @@
 
 #google
 127.0.0.1 app-measurement.com
+
+
+
+
+
+
+
+
+
+
+# global rom
+127.0.0.1 flash.sec.intl.miui.com
+127.0.0.1 authbe.sec.intl.miui.com
+127.0.0.1 jupiter.intl.sys.miui.com
+127.0.0.1 global.market.xiaomi.com
+127.0.0.1 hubstat.sandai.net
+127.0.0.1 hub5pnc.hz.sandai.net
+127.0.0.1 privacy.api.intl.miui.com
+127.0.0.1 api.ad.intl.xiaomi.com
+
+127.0.0.1 sg-idm.api.io.mi.com
+127.0.0.1 cdn.alsgp0.fds.api.mi-img.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 data.sec.intl.miui.com
+127.0.0.1 api.sec.intl.miui.com
+127.0.0.1 au.ff.avast.sec.miui.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 resolver.msg.global.xiaomi.net
+127.0.0.1 app.chat.global.xiaomi.net
+127.0.0.1 register.xmpush.global.xiaomi.com

@@ -80,6 +80,7 @@
 127.0.0.1 pdc.micloud.xiaomi.net
 #127.0.0.1 api.device.xiaomi.net
 127.0.0.1 a.hl.mi.com
+127.0.0.1 idm.api.io.mi.com
 127.0.0.1 api.jr.mi.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
 
